@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NavigatonBar</string>
+    <string name="Header">Welcome</string>
+    <string name="Profile">My Profile</string>
+    <string name="Settings">Settings</string>
+    <string name="Logout">Logout</string>
+    <string name="nav_open">open</string>
+    <string name="nav_close">close</string>
+</resources>
